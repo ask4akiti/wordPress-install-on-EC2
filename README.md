@@ -1,4 +1,4 @@
-# wordPress-install-on-EC2
+# wordPress-install-on-EC2- t2 micro
 #1. create the html directory and mount the efs to it
 sudo su
 yum update -y
